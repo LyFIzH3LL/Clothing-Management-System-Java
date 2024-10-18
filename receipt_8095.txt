@@ -1,0 +1,8 @@
+Purchase Receipt
+Purchase ID: 8095
+----------------------------------
+Product Name        Category            Quantity  Price     Total     
+----------------------------------
+Vogue               Pant                1         3200.0    3200.0    
+----------------------------------
+Total: 3200.0

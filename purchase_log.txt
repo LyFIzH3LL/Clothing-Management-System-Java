@@ -1,0 +1,2 @@
+Total Purchase Count: 1
+Total Purchase Amount: 2500.0

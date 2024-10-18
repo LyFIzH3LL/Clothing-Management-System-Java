@@ -1,0 +1,9 @@
+Purchase Receipt
+Purchase ID: 8773
+----------------------------------
+Product Name        Category            Quantity  Price     Total     
+----------------------------------
+Vogue               Pant                1         3200.0    3200.0    
+ChicThread          Shirt               1         2500.0    2500.0    
+----------------------------------
+Total: 5700.0

@@ -1,0 +1,9 @@
+Purchase Receipt
+Purchase ID: 8046
+----------------------------------
+Product Name        Category            Quantity  Price     Total     
+----------------------------------
+ChicThread          Shirt               3         2500.0    7500.0    
+Vogue               Pant                3         3200.0    9600.0    
+----------------------------------
+Total: 17100.0

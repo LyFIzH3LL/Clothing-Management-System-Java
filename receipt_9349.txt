@@ -1,0 +1,8 @@
+Purchase Receipt
+Purchase ID: 9349
+----------------------------------
+Product Name        Category            Quantity  Price     Total     
+----------------------------------
+ChicThread          Shirt               1         2500.0    2500.0    
+----------------------------------
+Total: 2500.0

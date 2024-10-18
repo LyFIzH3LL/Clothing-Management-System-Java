@@ -1,0 +1,20 @@
+Product ID : 01
+Product Name : ChicThread
+Category : Shirt
+Quantity : 37
+Price : 2500
+
+Product ID : 02
+Product Name : Vogue
+Category : Pant
+Quantity : 52
+Price : 3200
+
+Product ID : 03
+Product Name : Womens' Pant
+Category : Pant
+Quantity : 70
+Price : 3000
+
+Total Products : 4
+Total Quantity : 159
